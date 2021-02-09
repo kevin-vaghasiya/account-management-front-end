@@ -1,0 +1,5 @@
+exports.GOOGLE_AUTH = {
+    CLIENT_ID: process.env.NEXT_PUBLIC_GOOGLE_AUTH_CLIENT_ID
+}
+
+exports.SERVER_URL = process.env.NEXT_PUBLIC_SERVER_URL
